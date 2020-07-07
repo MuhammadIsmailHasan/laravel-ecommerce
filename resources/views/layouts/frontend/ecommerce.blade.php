@@ -47,7 +47,7 @@
             <div class="top_menu row m0">
                 <div class="container-fluid">
                     <div class="float-left">
-                        <p>Kolaborasi dg kami: Muhisan10@gmail.com</p>
+                        <p>Kolaborasi dg kami: Muhisan9@gmail.com</p>
                     </div>
                     <div class="float-right">
                         <ul class="right_side">
@@ -161,7 +161,7 @@
                         <div class="single-footer-widget">
                             <h6 class="footer_title">About Us</h6>
                             <p>Saya ismail, seorang web developer. Bisa berminat untuk berkolaborasi, silahkan melalui email saya:</p>
-                            <p><strong>Muhisan10@gmail.com</strong></p><br/>
+                            <p><strong>Muhisan9@gmail.com</strong></p><br/>
                             <h4>Terima Kasih, salam.</h4>
                         </div>
                     </div>
